@@ -63,8 +63,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone <your-repo-link>
-    cd <your-project-name>
+    git clone (https://github.com/yousefraeis/brainwave.git)
+    cd brainwave
     ```
 2. Install dependencies:
     ```bash
@@ -79,17 +79,16 @@ Start the development server:
 npm run dev
 ```
 
-Access the project at http://localhost:5173.
+Access the project at https://brainwave-nine-taupe.vercel.app/
 
 ---
 
 ## 🌐 Live Demo
 
-Experience the live demo [here](insert-live-demo-link).
+Experience the live demo [here](https://brainwave-nine-taupe.vercel.app/).
 
 ---
 
 ## 🎉 Acknowledgements
 
 A special shoutout to _Adrian Hajdin_ and his YouTube channel, _JavaScript Mastery_, for their exceptional tutorials that inspired this project. Be sure to check out their channel for invaluable insights into JavaScript and web development!
-#

@@ -6,7 +6,7 @@
 
 # 🚀 Modern UI/UX Website with React.js and Tailwind CSS
 
-Welcome to the repository for building a _Modern UI/UX Website_ featuring _sleek parallax effects_ and _bento box layouts. This project leverages \*\*React.js_ and _Tailwind CSS_, embracing a modern web design approach that prioritizes aesthetics and performance.
+Welcome to the repository for building a _Modern UI/UX Website_ featuring _sleek parallax effects_ and _bento box layouts. This project leverages \*\React.js_ and _Tailwind CSS_, embracing a modern web design approach that prioritizes aesthetics and performance.
 
 > Inspired by the _JavaScript Mastery_ tutorial on YouTube, this project enhances your skills in _React.js_ and _Tailwind CSS_ while adhering to mobile-first principles and contemporary UI designs.
 
@@ -23,7 +23,7 @@ Welcome to the repository for building a _Modern UI/UX Website_ featuring _sleek
 
 ## 🤖 Introduction
 
-The _Modern UI/UX Website_ exemplifies contemporary web design principles, integrating _sleek animations, **parallax scrolling effects, and **bento box layouts_ to deliver an immersive user experience. This website serves as a practical resource for anyone eager to enhance their skills in _React.js, \*\*Tailwind CSS_, and responsive design.
+The _Modern UI/UX Website_ exemplifies contemporary web design principles, integrating _sleek animations, parallax scrolling effects, and bento box layouts_ to deliver an immersive user experience. This website serves as a practical resource for anyone eager to enhance their skills in _React.js, \*\*Tailwind CSS_, and responsive design.
 
 ---
 
